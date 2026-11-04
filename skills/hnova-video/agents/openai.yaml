@@ -1,4 +1,0 @@
-interface:
-  display_name: "HNova Video"
-  short_description: "Make local code-generated video and synthesized sound"
-  default_prompt: "Use $hnova-video to create a short video with synthesized sound."

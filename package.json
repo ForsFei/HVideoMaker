@@ -1,7 +1,0 @@
-{
-  "name": "hnova-video-webgl",
-  "version": "0.2.0",
-  "private": true,
-  "description": "Local Three.js dependency for offline HNova Video rendering",
-  "dependencies": {"three": "0.180.0"}
-}
